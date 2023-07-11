@@ -1,7 +1,28 @@
-#git{
-background-color: blue;
+.git{
 
+background-color: yellow;
+color: blueviolet;
+margin-top: 50px;
+border: 10px solid tomato;
+text-align: center;
+font-family: 'Courier New', Courier, monospace;
+font-size: 20px;
+
+
+}
+.list{
+color: fuchsia;
+background-color: yellowgreen;
+margin: 100px;
+border: 10px solid tomato;
+text-align: center;
+font-size: 20px;
+font-family: 'Courier New', Courier, monospace;
 
 
 
 }
+
+
+
+
